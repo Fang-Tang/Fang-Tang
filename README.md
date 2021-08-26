@@ -1,4 +1,5 @@
 - 👋 Hi, I’m 方糖
+- 👀 交个朋友
 
 <!---
 Fang-Tang/Fang-Tang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
